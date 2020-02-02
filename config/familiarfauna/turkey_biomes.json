@@ -1,0 +1,22 @@
+[
+  "minecraft:taiga",
+  "minecraft:taiga_hills",
+  "minecraft:mutated_taiga",
+  "minecraft:redwood_taiga",
+  "minecraft:redwood_taiga_hills",
+  "minecraft:mutated_redwood_taiga",
+  "minecraft:mutated_redwood_taiga_hills",
+  "minecraft:taiga_cold",
+  "minecraft:taiga_cold_hills",
+  "minecraft:mutated_taiga_cold",
+  "minecraft:extreme_hills",
+  "minecraft:smaller_extreme_hills",
+  "minecraft:extreme_hills_with_trees",
+  "minecraft:mutated_extreme_hills",
+  "minecraft:mutated_extreme_hills_with_trees",
+  "conquest:mountains",
+  "conquest:mega_boreal_forest",
+  "twilightforest:dense_twilight_forest",
+  "twilightforest:snowy_forest",
+  "twilightforest:twilight_highlands"
+]

@@ -1,0 +1,5 @@
+- Some food recipes have changed and there is different kind of nutritions. A balanced diet gives you positive effects.
+- Bonemeal doesnt fertilize anymore, instead you can use compost.
+- If you die, your items are preserved in a totem and wont despawn. Destroying it drops them.
+- Trees can be chopped entirely if using an axe and crouching(shift).
+- Health is not regenerated after eating food but instead after not taking any damage for a few seconds.

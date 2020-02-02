@@ -1,0 +1,16 @@
+Header=You have [AllocatedMemory]MB of memory allocated. />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+Line1WhenOptimalMemory=The modpack recommends 2500-4000MB. />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+Line1WhenNonoptimalMemory=The modpack recommends using 2500-4000MB(at least [RecommendedMemory-AllocatedMemory] more). />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+ButtonStartText=Start
+
+ButtonStartBgColor=255, 255, 255, 255
+
+ButtonQuitText=Quit
+
+ButtonQuitBgColor=255, 255, 255, 255
+
+BackgroundImageDir=resources/backgroundImage.png
+
