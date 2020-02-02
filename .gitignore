@@ -1,3 +1,12 @@
 logs/
 local/
 tmp/
+crash-reports/
+libraries/
+*.disabled
+backups/
+.forge-installed*
+forge-*.jar
+minecraft_server.*.jar
+.mixin.out/
+crafttweaker.log
