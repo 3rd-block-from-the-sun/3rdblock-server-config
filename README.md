@@ -1,5 +1,7 @@
 ## Info on managing 3rd-rock-from-the-sun minecraft server
 
+based on https://github.com/itzg/docker-minecraft-server
+
 ### Basic start /stop
 
 - Start: `docker start 3rd-block`
