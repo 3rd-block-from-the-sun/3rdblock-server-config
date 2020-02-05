@@ -10,3 +10,6 @@ forge-*.jar
 minecraft_server.*.jar
 .mixin.out/
 crafttweaker.log
+world/
+usercache.json
+usernamecache.json
