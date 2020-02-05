@@ -82,6 +82,11 @@ minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
 quark:chest_passenger
+quark:flat_item_frame
+quark:leash_knot
+quark:glass_item_frame
+quark:seat
+quark:gravisand
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -90,11 +95,6 @@ quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
 quark:totem_of_holding
-quark:flat_item_frame
-quark:leash_knot
-quark:glass_item_frame
-quark:gravisand
-quark:seat
 quark:stoneling
 quark:archaeologist
 quark:foxhound
