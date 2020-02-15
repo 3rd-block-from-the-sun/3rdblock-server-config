@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:16
+renderDistance:10
 guiScale:0
 particles:0
 bobView:true
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Better Mobs.zip","Better Sky.zip","Paintings.zip"]
+resourcePacks:["Better Sky.zip","Paintings.zip","Better Mobs.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -52,7 +52,7 @@ enableWeakAttacks:false
 autoJump:false
 narrator:0
 tutorialStep:none
-soundCategory_master:1.0
+soundCategory_master:0.8013245
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
@@ -62,7 +62,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-soundCategory_ds_footsteps:1.0
+soundCategory_ds_footsteps:0.6971831
 soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true

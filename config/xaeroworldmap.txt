@@ -13,4 +13,4 @@ flowers:false
 compression:false
 coordinates:true
 biomeColorsVanillaMode:false
-globalVersion:13
+globalVersion:17

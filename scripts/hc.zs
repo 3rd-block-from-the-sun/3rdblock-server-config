@@ -25,7 +25,7 @@ recipes.remove(<harvestcraft:market>);
 //#Add
 recipes.addShaped(<harvestcraft:well>, [[<minecraft:brick_block>, null, <minecraft:brick_block>],[<minecraft:brick_block>, null, <minecraft:brick_block>], [<minecraft:brick_block>, <minecraft:water_bucket>, <minecraft:brick_block>]]);
 recipes.addShaped(<harvestcraft:waterfilter>, [[<thermalfoundation:material:32>, <minecraft:iron_bars>, <thermalfoundation:material:32>],[<minecraft:iron_bars>, <minecraft:coal:*>, <minecraft:iron_bars>], [<thermalfoundation:material:32>, <thermalfoundation:material:32>, <thermalfoundation:material:32>]]);
-recipes.addShaped(<harvestcraft:hardenedleatheritem>, [[<ore:itemWax>, <ore:leather>, null],[null, null, null], [null, null, null]]);
+recipes.addShapeless(<harvestcraft:hardenedleatheritem>, [<ore:itemWax>, <ore:leather>]);
 furnace.addRecipe(<harvestcraft:boiledeggitem>, <minecraft:egg>, 0.0);
 recipes.addShaped(<harvestcraft:grinder>, [[<thermalfoundation:material:32>, <thermalfoundation:material:23>, <thermalfoundation:material:32>],[<thermalfoundation:material:32>, null, <thermalfoundation:material:32>], [<ore:plankWood>, <immersiveengineering:material:8>, <ore:plankWood>]]);
 recipes.addShaped(<harvestcraft:presser>, [[<thermalfoundation:material:32>, <immersiveengineering:material:8>, <thermalfoundation:material:32>],[<thermalfoundation:material:32>, null, <thermalfoundation:material:32>], [<ore:plankWood>, <minecraft:piston>, <ore:plankWood>]]);

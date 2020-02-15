@@ -9,7 +9,7 @@ based on https://github.com/itzg/docker-minecraft-server
 
 ### Starting the first time
 
-`docker run -d -e INIT_MEMORY=4G -e MAX_MEMORY=20G -e VERSION=1.12.2 -e EULA=TRUE -e TYPE=FORGE -e FORGEVERSION=14.23.5.2847 -v /home/admin/minecrafts/3rd-block-from-the-sun:/data -p 25565:25565 --name 3rd-block itzg/minecraft-server`
+`docker run -d -e INIT_MEMORY=4G -e MAX_MEMORY=20G -e JVM_DD_OPTS=fml.queryResult:confirm -e VERSION=1.12.2 -e EULA=TRUE -e TYPE=FORGE -e FORGEVERSION=14.23.5.2847 -v /home/admin/minecrafts/3rd-block-from-the-sun:/data -p 25565:25565 --name 3rd-block itzg/minecraft-server`
 
 #### If you are making changes to how docker is running the server (like memory allocated) 
 
